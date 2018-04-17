@@ -1,2 +1,14 @@
 {
+    "name": "mrdaa/stok-app", 
+    "type": "project",
+    "authors": [
+        {
+            "name": "Dwi-Aji",
+            "email": "dwi.aji.a@gmail.com",
+            "role": "programmer"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    }
 }
