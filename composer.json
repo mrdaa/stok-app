@@ -10,5 +10,6 @@
     ],
     "require": {
         "phpunit/phpunit": "^6.5"
-    }
+    },
+    "version" : "0.5"
 }
