@@ -3,13 +3,12 @@
     "type": "project",
     "authors": [
         {
-            "name": "Dwi-Aji",
+            "name": "mrdaa",
             "email": "dwi.aji.a@gmail.com",
             "role": "programmer"
         }
     ],
     "require": {
         "phpunit/phpunit": "^6.5"
-    },
-    "version" : "0.5"
+    }
 }
